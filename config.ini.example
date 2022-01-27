@@ -1,0 +1,10 @@
+# Correct the fields below then remove the ".example" extension.
+# All fields are required.
+
+[ezid]
+username = username
+password = password
+ark-shoulder = ark:/99999/fk4
+ark-resolver = http://n2t.net
+minter-url = https://ezid.cdlib.org/shoulder
+update-url = https://ezid.cdlib.org/id/
